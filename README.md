@@ -49,7 +49,7 @@ Finally, we'll need to learn a little bit about Linux and Git. Linux is the oper
 - https://github.com/git-guides/#make-change-and-make-a-commit
 
 ## Testing your setup
-1. Fork this repo. Do so by click the [USE THIS TEMPLATE button](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) in the upper right. This should ask you to name your new repo.
+1. Create your own copy of this repo. Do so by click the [USE THIS TEMPLATE button](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) in the upper right. This should ask you to name your new repo.
 2. Open your new repo with GitPod. Do so by visiting [Gitpod.io](https://gitpod.io/workspaces) and clicking "New Workspace". This should display a menu where you can select your new name you set for your repo.
 3. Explore your editor. Make a change in the top window (the editor), and save it using `git` commands in the bottom window (called the terminal, command line, or CLI).
 4. To save your work you'll need to use the [git commands](https://github.com/git-guides/#make-change-and-make-a-commit) listed here. Specifically, `git add .`, `git commit -m "comment"`, and `git push` are the three commands to run in order to save your work.
