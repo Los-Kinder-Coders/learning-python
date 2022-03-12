@@ -30,9 +30,9 @@ It's good to eventually be able to do this kind of Math yourself. But, that's a 
 
 Some of the resources we'll use for Python are listed.
 
-- https://www.learnbyexample.org/python/
+- https://automatetheboringstuff.com/#toc
+- https://www.learnpython.org/
 - https://learnpythonthehardway.org/python3/
-- https://nostarch.com/automatestuff2
 - https://hyperpolyglot.org/scripting
 
 We will eventually want to create web apps, as part of our learning. To do that, we might need to dabble in a small amount of other languages like Javascript and SQL.
