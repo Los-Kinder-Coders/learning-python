@@ -22,7 +22,7 @@ Not really. IF you can add `500 + 60` together, you know enough Math to program.
 
 The other 1% is a bit more complex, and often falls under the category of Discrete Mathematics. This other Math is used to tell how slow an algorithm might be, or how to sort a list of integers the fastest way. It's a niche category of programming, and often these sorts of calculations are done for you already.
 
-It's similar to how Aztecross, Datto, and Ehroar figure out numbers and share them the Destiny community. It often happens that smart programmers figure out what's the best approach, and share that knowledge with the coding community. 
+It's similar to how Aztecross, Datto, and Ehroar figure out numbers and share them the Destiny gaming community. It often happens that smart programmers figure out what's the best approach, and share that knowledge with the coding community. 
 
 It's good to eventually be able to do this kind of Math yourself. But, that's a skill to work on in the future.
 
