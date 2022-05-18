@@ -24,7 +24,7 @@ The other 1% is a bit more complex, and often falls under the category of Discre
 
 It's similar to how Aztecross, Datto, and Ehroar figure out numbers and share them the Destiny gaming community. It often happens that smart programmers figure out what's the best approach, and share that knowledge with the coding community. 
 
-It's good to eventually be able to do this kind of Math yourself. But, that's a skill to work on in the future.
+It's beneficial to be able to do the more complex Math, eventually. It's also optional, because it's such a thin slice of overall programming. Much more of programming is about organizing, and writing well (as in, writing English).
 
 ## Resources
 
