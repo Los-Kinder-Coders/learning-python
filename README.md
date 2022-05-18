@@ -42,7 +42,7 @@ We will eventually want to create web apps, as part of our learning. To do that,
 - https://opentextbc.ca/dbdesign01/chapter/sql-structured-query-language/
 - https://cloud.google.com/bigquery/docs/reference/standard-sql/query-syntax
 
-Finally, we'll need to learn a little bit about Linux and Git. Linux is the operating system (like Windows). Git is the wya we'll save our code.
+Finally, we'll need to learn a little bit about Linux and Git. Linux is the operating system (like Windows). Git is the way we'll save our code.
 
 - https://lab.github.com/githubtraining/introduction-to-github
 - https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository
